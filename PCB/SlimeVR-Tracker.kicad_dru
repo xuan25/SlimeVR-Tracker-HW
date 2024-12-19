@@ -1,0 +1,13 @@
+(version 1)
+
+(rule USB_D
+   (constraint clearance (min 0.127mm))
+   (condition "A.NetClass == 'USB_D' && B.NetClass == 'USB_D'"))
+
+(rule USB_D_GND
+   (constraint clearance (min 0.127mm))
+   (condition "A.NetClass == 'GND' && B.NetClass == 'USB_D'"))
+
+(rule USB_D_GND1
+   (constraint clearance (min 0.127mm))
+   (condition "A.NetClass == 'USB_D' && B.NetClass == 'GND'"))
