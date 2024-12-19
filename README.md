@@ -4,6 +4,7 @@ A design of SlimeVR Tracker by Xuan25
 
 - PCB: PCB designed with KiCAD 7.0
 - Case: Case designed with FreeCAD 1.0.0
+- Adapted firmware is available [here](https://github.com/xuan25/SlimeVR-Tracker-ESP)
 
 ## Features
 
