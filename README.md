@@ -8,6 +8,7 @@ A design of SlimeVR Tracker by Xuan25
 
 ## Features
 
+- IMU: BNO085; MCU: ESP32-C3
 - 3D printed case
 - 2-layer PCB
 - firmware uploading via USB
