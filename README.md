@@ -2,6 +2,9 @@
 
 A design of SlimeVR Tracker by Xuan25
 
+- PCB: PCB designed with KiCAD 7.0
+- Case: Case designed with FreeCAD 1.0.0
+
 ## Features
 
 - 3D printed case
@@ -9,7 +12,7 @@ A design of SlimeVR Tracker by Xuan25
 - firmware uploading via USB
 - 9-hour durability with 700mAh 803030 Li-Po battery
 - Dimension: 55mm (l) x 37mm (w) x 23mm (h)
-- Optimized for hand soldering, with enough spacing to comfortably handle 0603 SMD components and maintain adequate clearance.
+- Optimized for hand soldering (hot plate required), with enough spacing to comfortably handle 0603 SMD components and maintain adequate clearance.
 
 ## Preview
 
