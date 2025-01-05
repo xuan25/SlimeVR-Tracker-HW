@@ -18,11 +18,13 @@ A design of SlimeVR Tracker by Xuan25
 
 ## Preview
 
+![preview.png](./imgs/preview.png)
 ![case-a.png](./imgs/case-a.png)
 ![case-b.png](./imgs/case-b.png)
 ![pcb-3d.png](./imgs/pcb-3d.png)
 ![pcb-a.png](./imgs/pcb-a.png)
 ![pcb-b.png](./imgs/pcb-b.png)
+![assembly.png](./imgs/assembly.png)
 ![build.png](./imgs/build.png)
 
 ## Production Resources
