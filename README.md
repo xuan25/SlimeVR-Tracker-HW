@@ -13,7 +13,7 @@ A design of SlimeVR Tracker by Xuan25
 - 2-layer PCB
 - firmware uploading via USB
 - 9-hour durability with 700mAh 803030 Li-Po battery
-- Dimension: 55mm (l) x 37mm (w) x 23mm (h)
+- Dimension: 57mm (l) x 37mm (w) x 23mm (h)
 - Optimized for hand soldering (hot plate required), with enough spacing to comfortably handle 0603 SMD components and maintain adequate clearance.
 
 ## Preview
@@ -24,6 +24,40 @@ A design of SlimeVR Tracker by Xuan25
 ![pcb-a.png](./imgs/pcb-a.png)
 ![pcb-b.png](./imgs/pcb-b.png)
 ![build.png](./imgs/build.png)
+
+## Production Resources
+
+### Files
+
+See the [latest release](https://github.com/xuan25/SlimeVR-Tracker-HW/releases/latest) for the production files:
+
+- `PCB-gbr.zip`: Gerber files for PCB production  
+- `PCB-BOM.csv`: Bill of Materials for PCB assembly  
+- `PCB-assembly-scale4.pdf`: Component reference for PCB assembly  
+- `3DP.zip`: STL model files for 3D printing  
+
+### Assembly
+
+In addition to the materials listed in the BOM for PCB assembly, you will also need:
+
+- `700mAh 803030 3.7V Lithium Polymer Battery` x1 (the battery)
+- `SSUH-003T-P0.15` x2 (socket contacts for the battery)
+- `SUHR-02V-S-B` x1 (socket contact housing)
+- `28AWG FEP Wire` x2 (wires connect the battery and the PCB)
+- `A4 EVA Foam Craft Sheets 2mm` x1 (spacer between the battery and the PCB)
+
+plus:
+
+- `138°C Low Temperature Soldering Paste`
+- `Solder Flux`
+- `PCB Cleaning Solution`
+
+Required tools include:
+
+- `ENGINEER PAD-11 Handy Crimp Tool`
+- `Hotplate for SMD Soldering`
+- `Soldering Iron`
+- (Optional) `Light and Magnifier`
 
 ## Please note: Before you send the case model to your 3D printer
 
