@@ -46,19 +46,23 @@ In addition to the materials listed in the BOM for PCB assembly, you will also n
 - `SSUH-003T-P0.15` x2 (socket contacts for the battery)
 - `SUHR-02V-S-B` x1 (socket contact housing)
 - `28AWG FEP Wire` x2 (wires connect the battery and the PCB)
-- `A4 EVA Foam Craft Sheets 2mm` x1 (spacer between the battery and the PCB)
+- `2mm thick EVA Foam Craft Sheets` x1 (spacer between the battery and the PCB)
+- `25mm width Elastic Band` + `Accessories`
 
 plus:
 
 - `138°C Low Temperature Soldering Paste`
 - `Solder Flux`
-- `PCB Cleaning Solution`
+- `PCB Cleaning Solution` + `Brush`
+- `8mm Polyimide Tape` + `30mm Polyimide Tape` (for battery breakout board insulation)
 
 Required tools include:
 
-- `ENGINEER PAD-11 Handy Crimp Tool`
+- `ENGINEER PAD-11 Handy Crimp Tool` (crimp battery connectors)
 - `Hotplate for SMD Soldering`
 - `Soldering Iron`
+- `Tweezers`
+- `Diagonal cutting plier` + `Sandpaper` (3D printing post-processing)
 - (Optional) `Light and Magnifier`
 
 ## Please note: Before you send the case model to your 3D printer
